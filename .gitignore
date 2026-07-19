@@ -8,3 +8,6 @@ obj/
 .vscode/
 *.swp
 .idea/
+
+## MacOS X
+.DS_Store/

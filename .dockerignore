@@ -8,3 +8,4 @@
 .gitignore
 tests/
 README.md
+.DS_Store/
