@@ -2,9 +2,7 @@
 **/obj/
 **/.vs/
 **/.vscode/
-**/node_modules/
 **/dist/
-**/.angular/
 **/*.user
 .git/
 .gitignore
